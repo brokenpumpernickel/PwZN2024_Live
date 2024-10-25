@@ -6,7 +6,7 @@ import random
 
 rich.traceback.install()
 
-# 1/0
+1/0
 
 rich.get_console().clear()
 rich.get_console().rule("Hello, World!", style="bold magenta")
