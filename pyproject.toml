@@ -16,6 +16,8 @@ matplotlib = "^3.9.2"
 numpy = ">=1.22,<2.1"
 numba = "^0.60.0"
 jupyterlab = "^4.3.0"
+requests = "^2.32.3"
+beautifulsoup4 = "^4.12.3"
 
 
 [build-system]
