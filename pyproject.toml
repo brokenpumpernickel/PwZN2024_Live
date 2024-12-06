@@ -18,6 +18,7 @@ numba = "^0.60.0"
 jupyterlab = "^4.3.0"
 requests = "^2.32.3"
 beautifulsoup4 = "^4.12.3"
+selenium = "^4.27.1"
 
 
 [build-system]
